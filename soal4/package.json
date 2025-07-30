@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^1.9.0",
+    "js-cookie": "^3.0.5",
+    "nodemon": "^3.1.10",
+    "react-toastify": "^11.0.5"
+  }
+}
